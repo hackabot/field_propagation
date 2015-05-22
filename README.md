@@ -15,7 +15,7 @@
 
 ## Test:
 
-* /test directory
+* /test directory is here
 * read the [functionality report](https://bitbucket.org/quarkxie/vecem/wiki/functionality) 
 
 ## BenchMark:
